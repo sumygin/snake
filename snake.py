@@ -11,7 +11,7 @@ pygame.display.set_caption("snake 2")
 print(WIDTH, HEIGHT)
 
 clock = pygame.time.Clock()
-FPS = 10
+FPS = 5
 
 squareN = 80
 squareS = WIDTH/squareN
